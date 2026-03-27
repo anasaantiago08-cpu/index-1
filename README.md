@@ -1,2 +1,2 @@
-# index-1
+# index.html
 página oficial del plantel
